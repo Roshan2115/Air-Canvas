@@ -1,5 +1,4 @@
 # Air-Canvas Using Opencv
-It will detect object only.
 
 Run the application : python main.py
 
